@@ -1,0 +1,39 @@
+.logo{
+    width: 250px;
+
+}
+#navbar{
+    background-color: #0d1524;
+}
+#navbar ul{
+    list-style: none;
+    padding-top: 15px;
+    padding-bottom: 15px;
+    padding-left: 0px;
+    margin: 0;
+}
+#navbar ul li{
+    display: inline;
+    margin: 0px  20px;
+}
+#navbar ul li a:hover{
+    color: #ff0000;
+}
+#navbar ul li a{
+    color: white;
+    font-size: 18px;
+    text-decoration: none;
+}
+.title-products{
+    text-align: center;
+    margin-top: 20px;
+}
+.btn{
+    background-color: #ff0000;
+    color: white;
+}
+#footer{
+    background-color: black;
+    color: white;
+    text-align: center;
+}
